@@ -1,0 +1,66 @@
+.grid
+{
+    width: 450px;
+    height: 450px;
+    border: solid 2px rgb(145, 43, );
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left: 10%;     
+}
+
+.grid div 
+{
+    width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+.invader 
+{
+    background-image: url(assets\images\stars.gif);
+    background-size: 100%;
+}
+
+.shooter 
+{
+    background-image: url(assets\images\rocket-fly.gif);
+    background-size: 100%;
+}
+
+.lazer 
+{
+    background-color: rgb(98, 88, 243);
+    border-radius: 20px;
+    box-shadow: 15px;
+    height: 2px;
+    width: 2px;
+}
+
+.boom 
+{
+    background-color: red;
+}
+
+body 
+{ 
+    background-image: url(assets\images\stars.gif);
+    align-content: center;
+}
+
+.player 
+{
+    height: 100px;
+    width: 100px;
+}
+
+
+h1 
+{ 
+    color: yellow;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
