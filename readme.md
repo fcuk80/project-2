@@ -1,27 +1,28 @@
-#Space Invaders
+# Space Invaders
 
 For my second project. I've attempted to create the retro computer game Space Invaders. There was many learning curves but an overall enjoyable experinec and I even suprised myself how much I've learnt.
 
-##Planning
+## Planning
 
 For this project I wanted to keep things simply. In the planning stage.
 Thinking about what I wanted to achieve I narrowed it down to
-
-###alien
-###shooter
-###lazer
+<ul>
+<li>alien</li>
+<li>shooter</li>
+<li>lazer</li>
+</ul>
 
 I then had to think about how i was gonna layout the page and for that i needed to create a wireframe. I used a site called figma to draw and design the wireframe, keeping as simple as possible.
 
 I thought about how I can display the game on the webpage and found grid was easier to manipulate than flexbox.
 
-###The next challenge was movement.
+### The next challenge was movement.
     
 
 
 <img src= "assets\images\rocket-fly.gifg">
 
-##Code
+## Code
 
 Using very little html and css, I began to write constants and variables on the page. Knowing how I would like to style it, I knew little else.
 
