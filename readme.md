@@ -39,9 +39,12 @@ As a gammer i wanted to bring back the nostalgia of retro video games.
 I attempted to stick with the traditional theme and retro look.
 
 <img src= "assets\images\gameover.jpg">
-Displays gameover once game is completed.
+
+### Displays gameover once game is completed.
+
 <img src= "assets\images\score.jpeg">
-Keeps score as you play.
+
+### Keeps score as you play.
 
 ## future development
 
@@ -54,7 +57,7 @@ More features will be added in future. Some of these will include.
 </ul>
    These features will make the game more like the original game.
 
-###credit and resources.
+### credit and resources.
  Youtube
     Code with Ania Kubów
     Programming with Mosh
